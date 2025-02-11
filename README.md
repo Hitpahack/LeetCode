@@ -24,4 +24,26 @@ I consistently **solve & upload** new problems **daily** to ensure **continuous 
 - **Problem-Solving Platforms**: LeetCode 🏆 | GeeksforGeeks 📚 | HackerRank 🎯  
 - **Version Control**: Git & GitHub 🛠️  
 
-## 📂 Repository Structure  
+## 📂 Repository Structure   
+
+📦 LeetCode-DSA-Solutions  
+ ┣ 📂 LeetCode  
+ ┃ ┣ 📂 Easy  
+ ┃ ┃ ┣ 📂 Array  
+ ┃ ┃ ┣ 📂 String  
+ ┃ ┃ ┣ 📂 LinkedList  
+ ┃ ┃ ┣ 📂 Stack  
+ ┃ ┃ ┣ 📂 Queue  
+ ┃ ┃ ┣ 📂 HashMap  
+ ┃ ┃ ┣ 📂 BinarySearch  
+ ┃ ┣ 📂 Medium  
+ ┃ ┃ ┣ 📂 Graph  
+ ┃ ┃ ┣ 📂 Heap  
+ ┃ ┃ ┣ 📂 DynamicProgramming  
+ ┃ ┃ ┣ 📂 Recursion  
+ ┃ ┣ 📂 Hard  
+ ┃ ┃ ┣ 📂 AdvancedGraphs  
+ ┃ ┃ ┣ 📂 SegmentTree  
+ ┃ ┃ ┣ 📂 Trie  
+ ┣ 📜 README.md  
+ ┗ 📜 CONTRIBUTING.md  

@@ -2,7 +2,7 @@
 
 ## 📌 What is it?  
 This repository is a **comprehensive collection of solutions** to **LeetCode** and **DSA (Data Structures & Algorithms)** problems, categorized into **Easy, Medium, and Hard** levels. I have provided **multiple approaches** for many problems to enhance understanding and improve coding skills.  
-
+ 
 ## 💡 Why should I make it?  
 - **Structured Learning**: Improve problem-solving skills with well-organized solutions.  
 - **Multiple Solutions**: Explore different approaches to solving the same problem.  
